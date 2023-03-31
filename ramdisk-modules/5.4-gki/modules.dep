@@ -63,3 +63,7 @@
 /lib/modules/5.4-gki/ln8000_charger_2.ko:
 /lib/modules/5.4-gki/pinctrl-holi.ko: /lib/modules/5.4-gki/pinctrl-msm.ko
 /lib/modules/5.4-gki/sdhci-msm.ko: /lib/modules/5.4-gki/cqhci-crypto-qti.ko /lib/modules/5.4-gki/cqhci.ko /lib/modules/5.4-gki/cqhci-crypto.ko /lib/modules/5.4-gki/crypto-qti-common.ko /lib/modules/5.4-gki/crypto-qti-hwkm.ko /lib/modules/5.4-gki/hwkm.ko /lib/modules/5.4-gki/pinctrl-msm.ko
+<<<<<<< HEAD
+=======
+/vendor/lib/modules/5.4-gki/usbtouchscreen.ko:
+>>>>>>> 2006213 (veux-kernel: Update from latest global)
